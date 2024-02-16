@@ -158,7 +158,3 @@ http-server
 ```
 
 This will start the web server on port 8080. Open your web browser and navigate to `http://localhost:8080`. You should see an alert with the message "Hello, WebAssembly!".
-
-## Conclusion
-
-This tutorial showed you how to build a simple WebAssembly module using Rust and then use it in a web application. You learned how to use wasm-pack to build the WebAssembly module and how to use it in a web application. You can now use this knowledge to build more complex WebAssembly modules and use them in your web applications.
